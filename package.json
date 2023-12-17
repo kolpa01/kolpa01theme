@@ -6,7 +6,7 @@
   "publisher": "kolpa01",
   "repository": {
     "type": "git",
-    "url": "https://github.com/kolpa01/kolpa01-Theme/"
+    "url": "https://github.com/kolpa01/kolpa01theme"
   },
   "engines": {
     "vscode": "^1.85.0"
