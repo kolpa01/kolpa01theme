@@ -1,0 +1,26 @@
+{
+  "name": "kolpa01-theme",
+  "displayName": "kolpa01 Theme",
+  "description": "kolpa01 Theme works for python",
+  "version": "1.0.0",
+  "publisher": "kolpa01",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kolpa01/kolpa01-Theme/"
+  },
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "kolpa01 Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/kolpa01 Theme-color-theme.json"
+      }
+    ]
+  }
+}
